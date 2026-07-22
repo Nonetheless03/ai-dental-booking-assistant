@@ -227,13 +227,19 @@ AI Dental Booking Assistant
 
 ## Online Booking Form
 
-*(Add booking form screenshot)*
+
+
+
 
 ---
 
 ## n8n Workflow
 
-*(Add workflow screenshot)*
+
+
+<img width="1868" height="862" alt="image" src="https://github.com/user-attachments/assets/d1c6e9d4-c646-4cb6-8985-2e63b0191f7e" />
+
+
 
 ---
 
@@ -247,13 +253,17 @@ AI Dental Booking Assistant
 
 ## Google Calendar Integration
 
-*(Add Google Calendar screenshot)*
+
+<img width="1537" height="890" alt="image" src="https://github.com/user-attachments/assets/db28051c-3d77-492e-9883-af6db022a45b" />
+
 
 ---
 
 ## Telegram Daily Summary
 
-*(Add Telegram summary screenshot)*
+
+<img width="1102" height="603" alt="image" src="https://github.com/user-attachments/assets/cabef27b-fd2c-4b29-9f9a-07fa0551ab36" />
+
 
 ---
 
@@ -347,11 +357,11 @@ https://github.com/Nonetheless03
 
 **LinkedIn**
 
-(Add your LinkedIn)
+
 
 **Email**
 
-(Add your professional email)
+norielvillanueva210@gmail.com
 
 ---
 
