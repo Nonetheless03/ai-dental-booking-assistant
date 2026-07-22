@@ -246,7 +246,9 @@ AI Dental Booking Assistant
 ## Airtable Database
 
 
-<img width="1185" height="496" alt="image" src="https://github.com/user-attachments/assets/6a7a6ae6-53f6-4e48-a9ca-0fe8310d1a4d" />
+
+<img width="1465" height="647" alt="image" src="https://github.com/user-attachments/assets/4a776e22-54f7-4815-a68a-b224dc3b2b72" />
+
 
 
 ---
@@ -260,6 +262,9 @@ AI Dental Booking Assistant
 ---
 
 ## Telegram Daily Summary
+
+
+<img width="542" height="795" alt="image" src="https://github.com/user-attachments/assets/e51c7cad-9087-447c-8a53-6bb0042485f1" />
 
 
 <img width="1102" height="603" alt="image" src="https://github.com/user-attachments/assets/cabef27b-fd2c-4b29-9f9a-07fa0551ab36" />
