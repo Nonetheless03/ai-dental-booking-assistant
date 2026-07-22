@@ -49,6 +49,21 @@ The AI Booking Assistant automatically validates requests, checks calendar avail
 - Updates Airtable records
 - Sends updated confirmation email
 
+
+# 💼 Business Problem
+
+Dental clinics often manage appointments manually using spreadsheets, calendars, or paper records.
+
+This can lead to:
+
+- Double bookings
+- Missed appointments
+- Scheduling conflicts
+- Manual email sending
+- Administrative overhead
+- Inconsistent record keeping
+
+This project automates the complete booking lifecycle while keeping all systems synchronized.
 ---
 
 ## ❌ Appointment Cancellation
@@ -225,7 +240,6 @@ AI Dental Booking Assistant
 
 # 📸 Project Screenshots
 
-## Online Booking Form
 
 
 
@@ -375,3 +389,8 @@ norielvillanueva210@gmail.com
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 It helps support future AI automation projects.
+
+
+## License
+
+This project is licensed under the MIT License.
