@@ -25,6 +25,7 @@ The AI Booking Assistant automatically validates requests, checks calendar avail
 
 ---
 
+
 # 🚀 Features
 
 ## 📅 Appointment Booking
@@ -50,20 +51,6 @@ The AI Booking Assistant automatically validates requests, checks calendar avail
 - Sends updated confirmation email
 
 
-# 💼 Business Problem
-
-Dental clinics often manage appointments manually using spreadsheets, calendars, or paper records.
-
-This can lead to:
-
-- Double bookings
-- Missed appointments
-- Scheduling conflicts
-- Manual email sending
-- Administrative overhead
-- Inconsistent record keeping
-
-This project automates the complete booking lifecycle while keeping all systems synchronized.
 ---
 
 ## ❌ Appointment Cancellation
@@ -278,8 +265,6 @@ AI Dental Booking Assistant
 ## Telegram Daily Summary
 
 
-<img width="542" height="795" alt="image" src="https://github.com/user-attachments/assets/e51c7cad-9087-447c-8a53-6bb0042485f1" />
-
 
 <img width="1102" height="603" alt="image" src="https://github.com/user-attachments/assets/cabef27b-fd2c-4b29-9f9a-07fa0551ab36" />
 
@@ -332,6 +317,21 @@ This automation helps clinics:
 ✔ Daily operational reporting
 
 ---
+
+# 💼 Business Problem
+
+Dental clinics often manage appointments manually using spreadsheets, calendars, or paper records.
+
+This can lead to:
+
+- Double bookings
+- Missed appointments
+- Scheduling conflicts
+- Manual email sending
+- Administrative overhead
+- Inconsistent record keeping
+
+This project automates the complete booking lifecycle while keeping all systems synchronized.
 
 # 🔮 Future Improvements
 
