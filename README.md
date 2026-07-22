@@ -376,7 +376,7 @@ https://github.com/Nonetheless03
 
 **LinkedIn**
 
-
+https://www.linkedin.com/in/noriel-villanueva-5b7183424/?isSelfProfile=true
 
 **Email**
 
